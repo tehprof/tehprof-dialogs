@@ -12,5 +12,6 @@ phone calls, linked to their CRM (Bitrix24, amoCRM). You see exactly their lines
 - Setup questions: `line_connect` (connect a line), `crm_integration_status`, `settings_map`, help via
   `help_search` / `help_read`.
 - Team reports: `manager_report`, then `manager_deal_moves` and `manager_activity_details`.
+- One counted question («how many…», by line, person or day, with the cases behind it): `facts`.
 
 Help: https://dialogs.tehprof.kz/help/ai-assistants/ · Support: support@tehprof.kz

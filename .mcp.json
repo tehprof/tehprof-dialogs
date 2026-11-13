@@ -1,6 +1,7 @@
 {
   "mcpServers": {
     "tehprof-dialogs": {
+      "type": "http",
       "url": "https://dialogs.tehprof.kz/mcp"
     }
   }

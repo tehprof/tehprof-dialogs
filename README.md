@@ -24,6 +24,7 @@ in when Antigravity opens the browser.
 
 Any client that supports remote MCP servers with OAuth (Claude, ChatGPT, Cursor, VS Code, Cline, Kiro…) connects to
 the same address: `https://dialogs.tehprof.kz/mcp` (Streamable HTTP, OAuth 2.1 with dynamic client registration).
-The `.mcp.json` file in this repository is that configuration.
+The `.mcp.json` file in this repository is that configuration in the Claude Code format (`"type": "http"`).
+Cline names the transport differently (`"type": "streamableHttp"`): see `llms-install.md`.
 
 Help: https://dialogs.tehprof.kz/help/ai-assistants/ · Support: support@tehprof.kz

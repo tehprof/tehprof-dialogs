@@ -1,6 +1,6 @@
 {
   "name": "tehprof-dialogs",
-  "version": "1.3.0",
+  "version": "1.5.0",
   "description": "Work with your TehProf Dialogs inbox — WhatsApp, Telegram, MAX and phone calls — from Gemini: who is waiting, whom to call back, draft replies and update the CRM, with every outgoing action confirmed by you.",
   "mcpServers": {
     "tehprof-dialogs": {
